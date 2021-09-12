@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrWangzhaoyang
+- 👋 Hi, I’m zhaoyang
 - 👀 I’m interested in game
 - 🌱 I’m currently learning NET Core
 - 📫 How to reach me 18272903310@163.com
